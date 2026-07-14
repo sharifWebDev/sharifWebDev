@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sharif Uddin 👋</h1>
-<h3 align="center">Software Engineer | Laravel & Vue.js / React Specialist</h3>
+<h3 align="center">Full Stack Software Engineer | Laravel & Vue.js / React Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharifuddin&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" /></a>
+  <a href="https://www.linkedin.com/in/md-sharif-uddin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" /></a>
   <a href="mailto:sharif.webpro@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat" /></a>
 </p>
 
@@ -155,9 +155,9 @@ Sherpur Polytechnic Institute, Sherpur | Jul 2017 – Dec 2021
 
 <p align="left">
   <a href="mailto:sharif.webpro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/md-sharif-uddin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://sharifwebdev.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"Building secure, scalable, and business-ready software — one clean commit at a time."</i></p>
