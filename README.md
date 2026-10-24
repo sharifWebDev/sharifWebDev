@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a Dhaka-based **Full Stack Software Engineer with 4+ years of experience** designing, building, and deploying web and mobile applications. I specialize in business-critical platforms across **ERP, HRMS, accounting, CRM, POS, inventory, logistics, and e-commerce**.
+I'm a **Full Stack Software Engineer with 4+ years of experience** designing, building, and deploying web and mobile applications. I specialize in business-critical platforms across **ERP, HRMS, accounting, CRM, POS, inventory, logistics, and e-commerce**.
 
 I work across the full product lifecycle—from requirements analysis and system design to implementation, cloud deployment, and production support. My focus is on maintainable architecture, secure APIs, practical performance, and software that solves real operational problems.
 
